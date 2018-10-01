@@ -1,0 +1,12 @@
+Player akan bermain sebagai kasir
+
+Sebagai kasir player akan menghitung total harga dari jumlah barang yang dibeli oleh pelanggan
+Jumlah barang yang dibeli akan muncul pada cloud diatas kepala pelanggan
+Untuk melihat harga, player dapat mengklik tombol kertas pada sisi kiri layar
+Jika salah maka waktu akan berkurang dan player harus memasukkan totalnya sampai benar
+Jika sudah benar maka skor dan waktu akan bertambah
+Setelah itu player akan menghitung kembalian dari uang yang diberikan oleh pelanggan
+Jika salah maka waktu akan berkurang dan player harus memasukkan totalnya sampai benar
+Jika sudah benar maka skor dan waktu akan bertambah dan player akan melayani pelanggan selanjutnya
+
+Game berakhir setelah waktu habis (waktu = 0)
